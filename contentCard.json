@@ -1,0 +1,49 @@
+{
+  "card" : [
+    {
+      "Name": "Ivan",
+      "Creditcard": "1004-5678-9012-3356",
+      "Password": "5454"
+    },
+    {
+      "Name": "Lena",
+      "Creditcard": "1234-0000-9012-3851",
+      "Password": "0110"
+    },
+    {
+      "Name": "Petya",
+      "Creditcard": "1234-5110-9012-3453",
+      "Password": "1100"
+    },
+    {
+      "Name": "Sasha",
+      "Creditcard": "1034-1578-9012-3757",
+      "Password": "3333"
+    },
+    {
+      "Name": "Sergey",
+      "Creditcard": "1234-3678-9012-3518",
+      "Password": "4545"
+    },
+    {
+      "Name": "Danila",
+      "Creditcard": "1234-0678-1012-1153",
+      "Password": "1245"
+    },
+    {
+      "Name": "Dasha",
+      "Creditcard": "1034-5678-9212-2455",
+      "Password": "3154"
+    },
+    {
+      "Name": "Katya",
+      "Creditcard": "3114-5678-9012-1457",
+      "Password": "2888"
+    },
+    {
+      "Name": "Nastya",
+      "Creditcard": "2204-5678-9012-1451",
+      "Password": "3456"
+    }
+  ]
+}
